@@ -1,0 +1,18 @@
+# Installatie en gebruik op Android (Nederlands)
+
+## Het pakket openen
+1. Download het ZIP-bestand vanuit WhatsApp.
+2. Open **Bestanden** (of **Mijn bestanden**) en ga naar **Downloads**. Tik op het ZIP-bestand en kies **Uitpakken** of **Extract**.
+3. Open de map `roadtrip-app` en tik op `index.html`. Kies **Chrome** als Android daarom vraagt.
+4. Kies bovenaan Nederlands. Tik op een hotel- of fotospot om Google Maps met die bestemming te openen.
+
+## Startscherm
+Tik in Chrome op **⋮** en kies **Toevoegen aan startscherm** of **Installeren** als die optie beschikbaar is. Dit pakket bevat geen APK. Android/Chrome biedt niet op elk toestel een installeerbare snelkoppeling voor een lokaal HTML-bestand. Als de optie ontbreekt, gebruik de planner in Chrome. Een officiële PWA-installatie vereist een HTTPS-webpagina; dit ZIP-bestand publiceert de app niet online.
+
+## Eigen bestemmingen toevoegen
+Open de gewenste dag, vul een plek in bij het invoerveld en tik op **Toevoegen**. Tik op de 🍅-knop om die bestemming in Google Maps te openen. Met **×** verwijder je je eigen stop. Eigen stops worden alleen op dit toestel en in deze browser bewaard.
+
+## Weer en herfstkleuren
+De app probeert bij openen en daarna elke zes uur automatisch de weersverwachting per reisregio op te halen via Open-Meteo. De opgehaalde gegevens worden zes uur lokaal bewaard. De weersverwachting loopt maximaal zestien dagen vooruit; verder gelegen datums tonen dat ze nog buiten de voorspellingsperiode vallen en worden automatisch bijgewerkt naarmate de reis dichterbij komt. Voor vergelijking staat ook de regionale Tenki.jp-link in elke dagkaart. Internet is nodig voor automatische updates, Google Maps en bronpagina’s.
+
+Herfstkleuren tonen de waarneming en schatting die in de app zijn opgenomen, met een link naar de actuele bronpagina. Tik op **Bron** voor de nieuwste waarneming.
